@@ -15,6 +15,7 @@
 /obj/item/clothing/head/caphat/cowboy
 	name = "general's hat"
 	desc = "A commanding white stetson adorned with a general's badge. Why this belongs to a captain is anybody's guess."
+	icon = 'icons/obj/clothing/hats.dmi'
 	icon_state = "cowboycap"
 
 /obj/item/clothing/head/cowboy/sec
