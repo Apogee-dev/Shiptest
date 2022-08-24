@@ -302,7 +302,7 @@
 /turf/open/floor/plasteel/mono/dark,
 /area/ship/crew/canteen)
 "hc" = (
-/turf/closed/wall/mineral/plastitanium,
+/turf/closed/wall/r_wall/syndicate,
 /area/ship/engineering)
 "hd" = (
 /obj/machinery/atmospherics/components/unary/outlet_injector/on{
@@ -361,7 +361,7 @@
 /turf/open/floor/plasteel/dark,
 /area/ship/cargo)
 "ie" = (
-/turf/closed/wall/mineral/plastitanium,
+/turf/closed/wall/r_wall/syndicate,
 /area/ship/crew/dorm)
 "im" = (
 /obj/machinery/modular_computer/console/preset/command{
@@ -1240,7 +1240,7 @@
 /turf/open/floor/plating,
 /area/ship/engineering)
 "yI" = (
-/turf/closed/wall/mineral/plastitanium,
+/turf/closed/wall/r_wall/syndicate,
 /area/ship/crew/canteen)
 "yJ" = (
 /obj/structure/sign/donk{
@@ -1450,7 +1450,7 @@
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ship/storage)
 "CP" = (
-/turf/closed/wall/mineral/plastitanium,
+/turf/closed/wall/r_wall/syndicate,
 /area/ship/storage)
 "CW" = (
 /obj/machinery/light,
@@ -2315,7 +2315,7 @@
 /turf/open/floor/plasteel/dark,
 /area/ship/hallway/central)
 "UC" = (
-/turf/closed/wall/mineral/plastitanium,
+/turf/closed/wall/r_wall/syndicate,
 /area/ship/cargo)
 "UE" = (
 /turf/open/floor/plating,
