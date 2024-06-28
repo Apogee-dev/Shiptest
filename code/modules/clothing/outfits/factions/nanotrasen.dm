@@ -51,10 +51,14 @@
 /datum/outfit/job/nanotrasen/captain/ns
 	name = "Nanotrasen - Captain (N+S Logistics)"
 
+	gloves = NULL
 	head = /obj/item/clothing/head/nanotrasen/cap/supply
 	uniform = /obj/item/clothing/under/nanotrasen/supply/qm
+	suit = NULL
+	alt_suit = NULL
 	dcoat = /obj/item/clothing/suit/hooded/wintercoat/cargo
 	shoes = /obj/item/clothing/shoes/sneakers/brown
+	neck = NULL
 	glasses = /obj/item/clothing/glasses/sunglasses
 	l_hand = /obj/item/clipboard
 
