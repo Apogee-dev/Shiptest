@@ -65,9 +65,9 @@
 
 /obj/item/clothing/gloves/tackler/combat/insulated
 	name = "guerrilla gloves"
-	desc = "Superior quality combative gloves, good for performing tackle takedowns as well as absorbing electrical shocks."
+	desc = "Superior quality combative gloves, good for performing tackle takedowns."
 	icon_state = "combat"
-	siemens_coefficient = 0
+	siemens_coefficient = 0.5
 	permeability_coefficient = 0.05
 
 /obj/item/clothing/gloves/tackler/rocket

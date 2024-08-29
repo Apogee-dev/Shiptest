@@ -165,6 +165,7 @@
 	item_state = "syndicate-black"
 	desc = "A space suit made of high-grade ballistic fabric with thermal and radiation shielding. More compact than a normal space suit while amost matching powered hardsuits for protection. Almost."
 	armor = list("melee" = 30, "bullet" = 10, "laser" = 10, "energy" = 40, "bomb" = 20, "bio" = 100, "rad" = 75, "fire" = 100, "acid" = 75)
+	siemens_coefficient = 0
 	allowed = list(/obj/item/gun, /obj/item/ammo_box, /obj/item/ammo_casing, /obj/item/melee/baton, /obj/item/tank/internals, /obj/item/t_scanner, /obj/item/construction/rcd, /obj/item/pipe_dispenser)
 	resistance_flags = FIRE_PROOF
 
