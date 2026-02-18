@@ -232,7 +232,7 @@
 	crate_type = /obj/structure/closet/crate/secure/plasma
 	no_bundle = TRUE
 
-/datum/supply_pack/machinery/wall_shield_gen
+/datum/supply_pack/ship_hardware/wall_shield_gen
 	name = "Shield Generator Crate"
 	desc = "These two shield wall generators are guaranteed to keep any unwanted lifeforms on the outside, where they belong! Not rated for containing singularities or tesla balls."
 	cost = 1000
@@ -241,42 +241,6 @@
 	crate_name = "shield generators crate"
 	crate_type = /obj/structure/closet/crate/secure/plasma
 	no_bundle = TRUE
-
-/datum/supply_pack/machinery/holofield_generator
-	name = "Holofield Generator Crate"
-	desc = "Contains the electronics you need to set up a new (or replacement) holofield! Buttons not included."
-	cost = 1000
-	contains = list(/obj/item/circuitboard/machine/shieldwallgen/atmos,
-					/obj/item/circuitboard/machine/shieldwallgen/atmos)
-	crate_name = "holofield generator crate"
-	crate_type = /obj/structure/closet/crate/engineering
-
-/datum/supply_pack/machinery/ion_thruster
-	name = "Ion Thruster Crate"
-	desc = "A crate containing an ion thruster and its precharger's electronics. For when you need a little extra thrust."
-	cost = 1500
-	contains = list(/obj/item/circuitboard/machine/shuttle/smes,
-					/obj/item/circuitboard/machine/shuttle/engine/electric)
-	crate_name = "ion thruster crate"
-	crate_type = /obj/structure/closet/crate/engineering
-
-/datum/supply_pack/machinery/plasma_thruster
-	name = "Plasma Thruster Crate"
-	desc = "A crate containing a plasma thruster and its heater's electronics. For when you need a lot of extra thrust."
-	cost = 1500
-	contains = list(/obj/item/circuitboard/machine/shuttle/heater,
-					/obj/item/circuitboard/machine/shuttle/engine/plasma)
-	crate_name = "plasma thruster crate"
-	crate_type = /obj/structure/closet/crate/engineering
-
-/datum/supply_pack/machinery/combustion_thruster
-	name = "Combustion Thruster Crate"
-	desc = "A crate containing a combustion thruster and its heater's electronics. For when you need complicated thrust."
-	cost = 2000
-	contains = list(/obj/item/circuitboard/machine/shuttle/fire_heater,
-					/obj/item/circuitboard/machine/shuttle/engine/fire)
-	crate_name = "combustion thruster crate"
-	crate_type = /obj/structure/closet/crate/engineering
 
 /datum/supply_pack/machinery/drill_crate
 	name = "Heavy duty laser mining drill"
