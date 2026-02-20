@@ -1,0 +1,5 @@
+author: SapphicOverload
+changes:
+  - {rscadd: Returns Zohilan as a selectable language}
+  - {spellcheck: Zohilan}
+delete-after: true
