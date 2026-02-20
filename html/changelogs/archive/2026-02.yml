@@ -114,3 +114,6 @@
   - rscadd: Added ship cloaking devices.
   - rscadd: The Leyak-class Covert Frigate is now equipped with a cloaking system.
   - rscadd: Hiding in a nebula obscures ships from long-range sensors.
+2026-02-20:
+  SapphicOverload:
+  - rscdel: Removed "Goebbles" from the list of random last names
