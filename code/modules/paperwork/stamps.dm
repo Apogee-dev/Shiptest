@@ -183,28 +183,28 @@
 /obj/item/stamp/makossowarra
 	name = "Makosso-Warra rubber stamp"
 	desc = "A small rubber stamp for stamping important documents."
-	icon_state = "stamp-makossowarra"
+	icon_state = "stamp-warra"
 	dye_color = DYE_BLUE
 
 /obj/item/stamp/makossowarra/captain
 	name = "NT Captain's rubber stamp"
-	icon_state = "stamp-makossowarra_cap"
+	icon_state = "stamp-warra_cap"
 
 /obj/item/stamp/makossowarra/officer
 	name = "NT Officer's rubber stamp"
-	icon_state = "stamp-makossowarra_fo"
+	icon_state = "stamp-warra_fo"
 
 /obj/item/stamp/makossowarra/engineering
 	name = "NT Engineering Director's rubber stamp"
-	icon_state = "stamp-makossowarra_engdir"
+	icon_state = "stamp-warra_engdir"
 
 /obj/item/stamp/makossowarra/medical
 	name = "NT Medical Director's rubber stamp"
-	icon_state = "stamp-makossowarra_meddir"
+	icon_state = "stamp-warra_meddir"
 
 /obj/item/stamp/makossowarra/science
 	name = "NT Science Director's rubber stamp"
-	icon_state = "stamp-makossowarra_scidir"
+	icon_state = "stamp-warra_scidir"
 
 /obj/item/stamp/makossowarra/ns
 	name = "N+S Logistics rubber stamp"
@@ -239,7 +239,7 @@
 /obj/item/stamp/makossowarra/central
 	name = "NT Central Command rubber stamp"
 	desc = "A rubber stamp for stamping important documents." // Needed, because base makossowarra has "small" added.
-	icon_state = "stamp-makossowarra_central"
+	icon_state = "stamp-warra_central"
 
 /obj/item/stamp/attack_paw(mob/user)
 	return attack_hand(user)
