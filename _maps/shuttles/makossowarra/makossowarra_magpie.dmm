@@ -1322,12 +1322,6 @@
 /turf/open/floor/plasteel/patterned/grid/dark,
 /area/ship/engineering/atmospherics)
 "iS" = (
-/obj/effect/turf_decal/corner/opaque/makossowarrabluelight/three_quarters{
-	dir = 8
-	},
-/obj/effect/turf_decal/trimline/opaque/white/line{
-	dir = 5
-	},
 /obj/machinery/power/apc/auto_name/directional/east,
 /obj/machinery/light_switch{
 	dir = 8;
@@ -1340,6 +1334,12 @@
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4,
 /obj/machinery/camera/autoname{
 	dir = 8
+	},
+/obj/effect/turf_decal/corner/opaque/makossowarrablue/three_quarters{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/opaque/white/line{
+	dir = 5
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/cargo/office)
@@ -1750,7 +1750,7 @@
 	dir = 4;
 	name = "Navigations"
 	},
-/obj/effect/turf_decal/corner/opaque/makossowarrabluelight/three_quarters,
+/obj/effect/turf_decal/corner/opaque/makossowarrablue/three_quarters,
 /obj/effect/turf_decal/trimline/opaque/white/line{
 	dir = 6
 	},
@@ -1989,13 +1989,13 @@
 /turf/closed/wall/mineral/titanium/nodiagonal,
 /area/ship/crew/cryo)
 "og" = (
-/obj/effect/turf_decal/corner/opaque/makossowarrabluelight/three_quarters,
-/obj/effect/turf_decal/trimline/opaque/white/line{
-	dir = 6
-	},
 /obj/machinery/airalarm/directional/east,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
 	dir = 1
+	},
+/obj/effect/turf_decal/corner/opaque/makossowarrablue/three_quarters,
+/obj/effect/turf_decal/trimline/opaque/white/line{
+	dir = 6
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/cargo/office)
@@ -2477,8 +2477,11 @@
 /obj/effect/turf_decal/corner/opaque/makossowarrabluelight{
 	dir = 10
 	},
-/obj/effect/turf_decal/trimline/opaque/white/line,
 /obj/structure/chair/office,
+/obj/effect/turf_decal/corner/opaque/makossowarrablue{
+	dir = 10
+	},
+/obj/effect/turf_decal/trimline/opaque/white/line,
 /turf/open/floor/plasteel/dark,
 /area/ship/cargo/office)
 "sE" = (
@@ -2723,7 +2726,7 @@
 /area/ship/engineering)
 "tH" = (
 /obj/machinery/holopad/emergency/command,
-/obj/effect/turf_decal/corner/opaque/makossowarrabluelight{
+/obj/effect/turf_decal/corner/opaque/makossowarrablue{
 	dir = 10
 	},
 /obj/effect/turf_decal/trimline/opaque/white/warning,
@@ -2838,9 +2841,6 @@
 /obj/effect/turf_decal/corner/opaque/makossowarrabluelight{
 	dir = 6
 	},
-/obj/effect/turf_decal/trimline/opaque/white/warning{
-	dir = 4
-	},
 /obj/structure/cable/white{
 	icon_state = "1-4"
 	},
@@ -2849,6 +2849,12 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer4{
 	dir = 5
+	},
+/obj/effect/turf_decal/corner/opaque/makossowarrablue{
+	dir = 6
+	},
+/obj/effect/turf_decal/trimline/opaque/white/warning{
+	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
 /area/ship/cargo/office)
@@ -5169,7 +5175,7 @@
 /turf/open/floor/plasteel/tech/grid,
 /area/ship/cargo)
 "Ll" = (
-/obj/effect/turf_decal/corner/opaque/makossowarrabluelight{
+/obj/effect/turf_decal/corner/opaque/makossowarrablue{
 	dir = 6
 	},
 /obj/effect/turf_decal/trimline/opaque/white/line{
@@ -6634,7 +6640,7 @@
 	dir = 8;
 	name = "Monitoring"
 	},
-/obj/effect/turf_decal/corner/opaque/makossowarrabluelight{
+/obj/effect/turf_decal/corner/opaque/makossowarrablue{
 	dir = 5
 	},
 /obj/effect/turf_decal/trimline/opaque/white/line{
@@ -6854,7 +6860,7 @@
 /obj/structure/chair/comfy/shuttle{
 	name = "Operations"
 	},
-/obj/effect/turf_decal/corner/opaque/makossowarrabluelight{
+/obj/effect/turf_decal/corner/opaque/makossowarrablue{
 	dir = 10
 	},
 /obj/effect/turf_decal/trimline/opaque/white/line,
