@@ -1059,8 +1059,10 @@
 /obj/structure/cable/white{
 	icon_state = "1-4"
 	},
+/obj/effect/turf_decal/makossowarra/modern_big/top_left{
+	dir = 8
+	},
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/makossowarra/modern_big/top_right,
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "hc" = (
@@ -1832,7 +1834,9 @@
 /obj/effect/turf_decal/industrial/warning{
 	dir = 8
 	},
-/obj/effect/turf_decal/makossowarra/modern_big/center_left,
+/obj/effect/turf_decal/makossowarra/modern_big/bottom_center{
+	dir = 8
+	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "mP" = (
@@ -1845,7 +1849,9 @@
 /obj/structure/cable/white{
 	icon_state = "4-8"
 	},
-/obj/effect/turf_decal/makossowarra/modern_big/top_left,
+/obj/effect/turf_decal/makossowarra/modern_big/bottom_left{
+	dir = 8
+	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "mW" = (
@@ -2298,7 +2304,9 @@
 /obj/structure/cable/white{
 	icon_state = "4-8"
 	},
-/obj/effect/turf_decal/makossowarra/modern_big/bottom_right,
+/obj/effect/turf_decal/makossowarra/modern_big/top_right{
+	dir = 8
+	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "qR" = (
@@ -2798,7 +2806,9 @@
 /obj/structure/cable/white{
 	icon_state = "4-8"
 	},
-/obj/effect/turf_decal/makossowarra/modern_big/top_center,
+/obj/effect/turf_decal/makossowarra/modern_big/center_left{
+	dir = 8
+	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "tW" = (
@@ -3563,7 +3573,9 @@
 /turf/open/floor/plating,
 /area/ship/cargo/office)
 "Ap" = (
-/obj/effect/turf_decal/makossowarra/modern_big/center_right,
+/obj/effect/turf_decal/makossowarra/modern_big/top_center{
+	dir = 8
+	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "AB" = (
@@ -4529,7 +4541,9 @@
 /obj/structure/cable/white{
 	icon_state = "4-8"
 	},
-/obj/effect/turf_decal/makossowarra/modern_big/bottom_center,
+/obj/effect/turf_decal/makossowarra/modern_big/center_right{
+	dir = 8
+	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "Hj" = (
@@ -4903,8 +4917,10 @@
 /obj/structure/cable/white{
 	icon_state = "4-8"
 	},
+/obj/effect/turf_decal/makossowarra/modern_big/bottom_right{
+	dir = 8
+	},
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/makossowarra/modern_big/bottom_left,
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "Jm" = (
@@ -6152,7 +6168,9 @@
 /turf/open/floor/plasteel/tech/techmaint,
 /area/ship/hallway/port)
 "Sn" = (
-/obj/effect/turf_decal/makossowarra/modern_big/center,
+/obj/effect/turf_decal/makossowarra/modern_big/center{
+	dir = 8
+	},
 /turf/open/floor/plasteel/patterned/grid,
 /area/ship/cargo)
 "Sz" = (
