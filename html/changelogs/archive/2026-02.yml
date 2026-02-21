@@ -107,3 +107,20 @@
   PositiveEntropy:
   - imageadd: Prettier bureaucratic supplies have been added to offices all over the
       frontier!
+2026-02-19:
+  KOCMODECAHTHUK:
+  - bugfix: Fixes movement keys being stuck
+  SapphicOverload:
+  - rscadd: Added ship cloaking devices.
+  - rscadd: The Leyak-class Covert Frigate is now equipped with a cloaking system.
+  - rscadd: Hiding in a nebula obscures ships from long-range sensors.
+2026-02-20:
+  SapphicOverload:
+  - rscdel: Removed "Goebbles" from the list of random last names
+2026-02-21:
+  SapphicOverload:
+  - rscadd: Returns Zohilan as a selectable language
+  - spellcheck: Zohilan
+  meemofcourse:
+  - rscadd: League Zohilian
+  - rscdel: Zohilian is no longer a roundstart language
